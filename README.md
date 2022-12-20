@@ -5,30 +5,19 @@
 <div dir="rtl">
   
 ### اسم الطالب
+شوق أحمد الفارسي
 
 
 ### اسم المشروع
+UNote 
 
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+موقع يساعد في تدوين الملاحظات   
 
 
 # الأعمال المستقبلية
 
 
-</div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
